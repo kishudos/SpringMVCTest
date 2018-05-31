@@ -1,0 +1,5 @@
+com/paractice/spring/rest/model/Response.class
+com/practice/spring/rest/config/ApplicationConfiguration.class
+com/practice/spring/rest/config/ApplicationInitializer.class
+com/paractice/spring/rest/model/User.class
+com/practice/spring/rest/controller/UserController.class
